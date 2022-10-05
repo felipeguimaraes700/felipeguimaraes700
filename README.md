@@ -6,11 +6,11 @@
 <br>
 <br>
 
-<p align="center"><strong>Sou um estudante que ama esse mundo da programação, focando nos estudos e dedicando posso ir aonde eu quiser.<strong><br>
+<p align="center"><strong>Sou um estudante que ama esse mundo da programação, focando nos estudos e me dedicando posso ir aonde eu quiser.<strong><br>
 "hoje vai ser melhor do que ontem e amanhã vai ser melhor do que hoje"
 </p>
 <br>
-<br>
+<h2 align="center">Desenvolvimento:</h2>
 <div align="center">
   <a href="https://github.com/felipeguimaraes700">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeguimaraes700&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
