@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<p align="center"><strong>Sou um estudante que ama esse mundo da programação, focado nos estudos e dedicação posso ir aonde eu quiser.<strong><br>
+<p align="center"><strong>Sou um estudante que ama esse mundo da programação, focando nos estudos e dedicando posso ir aonde eu quiser.<strong><br>
 "hoje vai ser melhor do que ontem e amanhã vai ser melhor do que hoje"
 </p>
 <br>
