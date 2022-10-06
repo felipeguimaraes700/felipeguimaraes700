@@ -22,6 +22,7 @@
     <img height="40px" whidt="40px" src="https://img.icons8.com/color/344/css3.png">
     <img height="40px" whidt="40px" src="https://img.icons8.com/color/344/javascript--v1.png">
     <img height="40px" whidt="40px" src="https://img.icons8.com/color/344/c-sharp-logo-2.png">
+    <img height="40px" whidt="40px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+ejs-1324451285990778004.png">
   </div>
   
   <img align="left" height="250px" width="250px" align="center" src="https://acegif.com/wp-content/uploads/gif-for-presentation-63.gif">
