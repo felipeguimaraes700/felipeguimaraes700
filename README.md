@@ -1,7 +1,10 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h1 align="center">Felipe Guimarães</h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Popins&weight=800&size=37&duration=4000&pause=1000&color=00bfbf&center=true&width=1005&lines=MY+NAME+is+Felipe+Guimar%C3%A3es;I'm+18+years+old;FRONT-END+Developer" alt="Typing SVG" />
+</a>
+
 <h2 align="center">Olá! bem-vindo(a) ao meu Github!!</h2>
 <br>
 <br>
@@ -25,14 +28,13 @@
     <img height="40px" whidt="40px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+ejs-1324451285990778004.png">
   </div>
   
-  <img align="left" height="250px" width="250px" align="center" src="https://acegif.com/wp-content/uploads/gif-for-presentation-63.gif">
+  <img align="left" height="250px" width="250px" align="center" src="https://media1.giphy.com/media/TFPdmm3rdzeZ0kP3zG/200w.webp?cid=ecf05e47ufh2ymzf5bsr7dazd08i4mpsidfotssee17xsp6x&rid=200w.webp&ct=g">
   <div>
   <h3><strong>Contatos:<strong></h3>
   <ul>
-    <li><img height="30px" src="https://cdn-icons-png.flaticon.com/512/3955/3955011.png" alt="logo-facebook"><a href="https://www.facebook.com/profile.php?id=100080336079335" target="_blank">Facebook</a></li>
-    <li><img height="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="logo-instagram"><a href="https://www.instagram.com/felipe_guima_ofc/" target="_blank">Instagram</a></li>
-    <li><img height="30px" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" alt="logo-linkedin"><a href="https://www.linkedin.com/in/felipe-guimar%C3%A3es-148468232/" target="_blank">Linkedin</a></li>
-    <li><img height="30px" src="https://cdn-icons-png.flaticon.com/512/4401/4401461.png" alt="logo-instagram"><a href="https://api.whatsapp.com/send?phone=5511960844667" target="_blank">whatsapp</a></li>
+    <li><img height="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="logo-instagram"><a href="https://www.instagram.com/felipe_guima_ofc/" target="_blank"> Instagram</a></li>
+    <li><img height="30px" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" alt="logo-linkedin"><a href="https://www.linkedin.com/in/felipe-guimar%C3%A3es-148468232/" target="_blank"> Linkedin</a></li>
+    <li><img height="30px" src="https://cdn-icons-png.flaticon.com/512/4401/4401461.png" alt="logo-instagram"><a href="https://api.whatsapp.com/send?phone=5511960844667" target="_blank"> whatsapp</a></li>
   </div>
     
         
@@ -41,8 +43,9 @@
   
   <br>
   
- ![ Contribuição ](https://activity-graph.herokuapp.com/graph?username=felipeguimaraes700&theme=gotham&hide_border=true&area=true)
-  
+ [![Ashutosh's github activity
+    graph](https://github-readme-activity-graph.cyclic.app/graph?username=felipeguimaraes700&bg_color=0d1117&color=00bfbf&line=2F4F4F&point=18F7A3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
 
