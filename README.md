@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Popins&weight=800&size=37&duration=4000&pause=1000&color=00bfbf&center=true&width=1005&lines=MY+NAME+is+Felipe+Guimar%C3%A3es;I'm+19+years+old;FRONT-END+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Popins&weight=800&size=37&duration=4000&pause=1000&color=00bfbf&center=true&width=1005&lines=MY+NAME+is+Felipe+Guimar%C3%A3es;I'm+19+years+old;FRONT-END+Developer;Studying+software+Engineering" alt="Typing SVG" />
 </a>
 
 <h2 align="center">Olá! bem-vindo(a) ao meu Github!!</h2>
