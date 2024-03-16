@@ -37,10 +37,10 @@
     <li><img height="30px" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" alt="logo-linkedin"><a href="https://www.linkedin.com/in/felipe-guimar%C3%A3es-148468232/" target="_blank"> Linkedin</a></li>
     <li><img height="30px" src="https://cdn-icons-png.flaticon.com/512/4401/4401461.png" alt="logo-instagram"><a href="https://api.whatsapp.com/send?phone=5511960844667" target="_blank"> whatsapp</a></li>
   </div>
-    
-        
-    
   </ul>
+
+
+  
   
   <br>
   
