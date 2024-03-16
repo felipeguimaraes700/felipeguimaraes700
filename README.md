@@ -44,9 +44,8 @@
   
   
   <br>
-  
- [![Ashutosh's github activity
-    graph](https://github-readme-activity-graph.cyclic.app/graph?username=felipeguimaraes700&bg_color=0d1117&color=00bfbf&line=2F4F4F&point=18F7A3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  ![snake gif](https://github.com/felipeguimaraes700/felipeguimaraes700/blob/output/github-contribution-grid-snake.svg)
     
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
