@@ -25,8 +25,9 @@
     <img height="40px" whidt="40px" src="https://img.icons8.com/color/344/css3.png">
     <img height="40px" whidt="40px" src="https://img.icons8.com/color/344/javascript--v1.png">
     <img height="40px" whidt="40px" src="https://img.icons8.com/color/344/c-sharp-logo-2.png">
-    <img height="40px" whidt="40px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+ejs-1324451285990778004.png">
+    <img height="40px" whidt="40px" src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png">
     <img height="40px" whidt="40px" src="https://img.icons8.com/fluency/512/typescript.png">
+    <img height="40px" whidt="40px" src="https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png">
   </div>
   
   <img align="left" height="200px" width="200px" align="center" src="https://media1.giphy.com/media/TFPdmm3rdzeZ0kP3zG/200w.webp?cid=ecf05e47ufh2ymzf5bsr7dazd08i4mpsidfotssee17xsp6x&rid=200w.webp&ct=g">
